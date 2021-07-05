@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "952761787160",
+    "project_id": "ar-demo-309912",
+    "storage_bucket": "ar-demo-309912.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952761787160:android:a60340881a1ff531e8b46d",
+        "android_client_info": {
+          "package_name": "com.MuratArslan.ARDemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952761787160-pn1hfr8f1lfttvkida94glirjh0i1u5t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmqbWM9SO9pKyr5YAhqH0pRnZhKcOYNa4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952761787160-pn1hfr8f1lfttvkida94glirjh0i1u5t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
